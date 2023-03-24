@@ -8,3 +8,14 @@ https://github.com/phuocng/html-dom
 
 https://github.com/devpunks/snuggsi
 
+---------------------------------------
+https://github.com/webtides/element-js
+https://github.com/webcomponents/custom-elements-everywhere
+https://github.com/matthewp/haunted      aka react hooks functional web components
+
+https://github.com/node-projects/web-component-designer
+
+https://github.com/google/playground-elements                    https://google.github.io/playground-elements/?
+
+
+
